@@ -5,7 +5,7 @@ let inputValues = {
     message: "",
 }
 
-form = document.querySelector('.feedback-form');
+form = document.querySelector('form');
 emailInput = form.querySelector('input');
 messageInput = form.querySelector('textarea');
     
